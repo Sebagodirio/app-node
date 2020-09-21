@@ -1,8 +1,14 @@
 # app-node
 Aplicacion para aplicar comando que crean archivos de multiplicaciones en node.
 
-$ npm install //para instalar las dependencias
+Instalar dependencias antes de ejecutar:
 
-$ node app --help //para ver opciones
+```
+$ npm install 
+```
+Para ver los comandos y acciones disponibles:
+```
+$ node app --help
+``` 
 
 
